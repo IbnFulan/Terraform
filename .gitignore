@@ -2,3 +2,6 @@
 .terraform.lock.hcl
 .idea/
 *.iml
+provider.tf
+terraform.tfvars
+versions.tf
